@@ -1,0 +1,23 @@
+{
+  "name": "ajs-25_3.1-ajs-test-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenakoch122/ajs-25_3.1-ajs-test-Node.js.git"
+  },
+  "author": "elenakoch122",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenakoch122/ajs-25_3.1-ajs-test-Node.js/issues"
+  },
+  "homepage": "https://github.com/elenakoch122/ajs-25_3.1-ajs-test-Node.js#readme",
+  "dependencies": {
+    "@elenakoch122/ajs-25_3.1-ajs": "^1.0.0"
+  }
+}
